@@ -410,4 +410,8 @@ footer .credit a {
   html {
     font-size: 75%;
   }
+
+  .hero::after {
+    height: 10%;
+  }
 }
